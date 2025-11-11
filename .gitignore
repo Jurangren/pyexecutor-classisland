@@ -1,0 +1,26 @@
+# Build outputs
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.tmp
+*.log
+*.svclog
+*.pidb
+*.psess
+*.vsp
+*.vspx
+*.opendb
+
+# IDE caches
+.vs/
+.idea/
+*.iml
+
+# ClassIsland packaging artifacts
+*.cipx
+
+# Misc
+Thumbs.db
+.DS_Store
