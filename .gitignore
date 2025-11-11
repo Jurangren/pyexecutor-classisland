@@ -20,6 +20,7 @@ obj/
 
 # ClassIsland packaging artifacts
 *.cipx
+cipx/
 
 # Misc
 Thumbs.db
